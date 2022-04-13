@@ -4,7 +4,11 @@ Here is an easy project that you can easy make with an Arduino, Servomotor and U
 # Software that you need for the code 
 # Arduino IDE and
 # Processing (When you copy and paste the code on the processing text editor, change the Serial Port on which one you use, in my case the 
-# Port is 'COM3' if yours is for example 'COM6' change it to 'COM6' and run the processing.
+# Port is 'COM3' if yours is for example 'COM6' change it to 'COM6' and run the processing).
+
+Download Links:     Arduino IDE:      https://www.arduino.cc/en/software
+                    Processing:       https://processing.org/download
+
 
 
 connect vcc of servomotor(red wire) and vcc of ultrasonic sensor to 5v of arduino
